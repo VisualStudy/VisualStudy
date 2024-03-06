@@ -24,4 +24,4 @@ Welcome, VisualStudy is here!
 Let's start for our future,
 We are together!
 
-There is 
+There is Place of Education!
