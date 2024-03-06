@@ -18,4 +18,4 @@ Hello, World!
 I am VisualStudy Owner.
 Good to see you~
 I love coding.
-and 
+and day to day, I progress my ability.
