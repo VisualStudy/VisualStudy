@@ -25,3 +25,4 @@ Let's start for our future,
 We are together!
 
 There is Place of Education!
+Now, We will have Great Innovation.
