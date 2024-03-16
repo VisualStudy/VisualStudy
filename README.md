@@ -26,4 +26,4 @@ We are together!
 
 There is Place of Education!
 Now, We will have Great Innovation.
-
+GO, GO, GO!
