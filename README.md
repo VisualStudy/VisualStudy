@@ -30,4 +30,4 @@ GO, GO, GO!
 Let's GO.
 go.
 good!
-great~
+great~!
