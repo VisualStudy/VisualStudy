@@ -38,7 +38,7 @@ Pizz Buzz Great!
 ### Visual Studio
 - https://www.visualstudio.com
 
-### VisualStudio Code
+### Visual Studio Code
 - https://code.visualstudio.com
 
 ### Python
