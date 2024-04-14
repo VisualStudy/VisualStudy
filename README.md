@@ -32,3 +32,12 @@ go.
 good!
 great~!
 Pizz Buzz Great!
+
+## 개발환경 구축
+
+- htttps://wwww.visualstudio.com
+- https://code.visualstudio.com
+- https://python.org
+- https://git-scm.com
+- https://desktop.github.com
+
