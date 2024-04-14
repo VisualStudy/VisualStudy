@@ -36,7 +36,7 @@ Pizz Buzz Great!
 ## 개발환경 구축
 
 ### VisualStudio
-- htttps://wwww.visualstudio.com
+- https://www.visualstudio.com
 
 ### VisualStudio Code
 - https://code.visualstudio.com
