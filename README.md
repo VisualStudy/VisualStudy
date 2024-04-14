@@ -35,9 +35,20 @@ Pizz Buzz Great!
 
 ## 개발환경 구축
 
+### VisualStudio
 - htttps://wwww.visualstudio.com
+
+### VisualStudio Code
 - https://code.visualstudio.com
+
+### Python
 - https://python.org
+
+### Git
 - https://git-scm.com
+
+### GitHub Desktop
 - https://desktop.github.com
+
+
 
