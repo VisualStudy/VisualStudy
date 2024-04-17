@@ -14,24 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, World!
-I am VisualStudy Owner.
-Good to see you~
-I love coding.
-and day to day, I progress my ability.
-
-Welcome, VisualStudy is here!
-Let's start for our future,
-We are together!
-
-There is Place of Education!
-Now, We will have Great Innovation.
-GO, GO, GO!
-Let's GO.
-go.
-good!
-great~!
-Pizz Buzz Great!
+최고의 넷러너를 꿈꾸며...
 
 ## 개발환경 구축
 
