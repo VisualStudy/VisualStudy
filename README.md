@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 최고의 넷러너를 꿈꾸다
+
 배우고
+
 적으며
+
 익힌다
+
 VISUALSTUDY
 
 ## 개발환경 구축
