@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-최고의 넷러너를 꿈꾸다
+
 
 배우고
 
