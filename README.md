@@ -1,4 +1,4 @@
-### Hi, there! 👋
+### Hi, there! 반갑습니다. 👋
 
 <!--
 **VisualStudy/VisualStudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,24 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, World!
-I am VisualStudy Owner.
-Good to see you~
-I love coding.
-and day to day, I progress my ability.
 
-Welcome, VisualStudy is here!
-Let's start for our future,
-We are together!
 
-There is Place of Education!
-Now, We will have Great Innovation.
-GO, GO, GO!
-Let's GO.
-go.
-good!
-great~!
-Pizz Buzz Great!
+배우고
+
+적으며
+
+익힌다
+
+VISUALSTUDY
 
 ## 개발환경 구축
 
