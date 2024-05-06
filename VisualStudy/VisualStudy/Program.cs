@@ -52,6 +52,7 @@ else
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
+app.UseDefaultFiles();
 app.UseAntiforgery();
 
 app.MapRazorComponents<App>()
