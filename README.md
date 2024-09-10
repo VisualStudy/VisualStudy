@@ -48,9 +48,6 @@ VISUALSTUDY
 ### GitHub Desktop
 - https://desktop.github.com
 
-## python
-
-
 
 ## C language
 
