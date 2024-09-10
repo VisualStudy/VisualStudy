@@ -39,6 +39,8 @@ VISUALSTUDY
 ### Visual Studio Code
 - https://code.visualstudio.com
 
+### C language
+
 ### Python
 - https://python.org
 
@@ -49,7 +51,7 @@ VISUALSTUDY
 - https://desktop.github.com
 
 
-### C language
+
 
 
 
