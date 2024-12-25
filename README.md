@@ -49,10 +49,10 @@ VISUALSTUDY
 - https://git-scm.com
 
 ### Unity
-- https;//
+- https://
 
 ### Unreal
--
+- https://
 
 ### GitHub Desktop
 - https://desktop.github.com
