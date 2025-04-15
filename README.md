@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 ComEdu
+Prompt engineer
+Promptician
+AI practitioner
+Cothinker
+Refiner
+SenseCrafter
+
 
 배우고
 
