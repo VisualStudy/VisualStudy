@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 ComEdu
 
+Prompt engineer
+
+Promptician
+
+AI practitioner
+
+Cothinker
+
+Refiner
+
+SenseCrafter
+
+
 배우고
 
 익힌다
