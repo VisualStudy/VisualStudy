@@ -71,6 +71,12 @@ VISUALSTUDY
 ### Unreal
 - https://.
 
+### Arduino
+- https://www.arduino.cc
+
+### Processing
+- https://processing.org
+
 ### GitHub Desktop
 - https://desktop.github.com
 
