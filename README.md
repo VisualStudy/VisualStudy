@@ -45,6 +45,8 @@ SenseCrafter
 
 눈을 통해 학습하다
 
+당신의 길, 새로운 길
+
 VISUALSTUDY
 
 
