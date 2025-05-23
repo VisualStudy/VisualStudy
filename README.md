@@ -1,4 +1,4 @@
-### Hi, there    반갑습니다!     👋
+### Hi, there    반갑습니다!         👋
  
 <!-- 
 **VisualStudy/VisualStudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
--->
+--> 
 ComEdu
 
 Prompt engineer
@@ -39,11 +39,13 @@ SenseCrafter
 
 확실성
 
-
+ 
 
 직접 눈으로 보고 
 
 눈을 통해 학습하다
+
+당신의 길, 새로운 길 
 
 VISUALSTUDY
 
@@ -70,6 +72,12 @@ VISUALSTUDY
 
 ### Unreal
 - https://.
+
+### Arduino
+- https://www.arduino.cc
+
+### Processing
+- https://processing.org
 
 ### GitHub Desktop
 - https://desktop.github.com
