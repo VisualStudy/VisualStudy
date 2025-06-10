@@ -47,7 +47,7 @@ SenseCrafter
 
 당신의 길, 새로운 길 
 
-VISUALSTUDY
+ VISUALSTUDY
 
 
 ## 개발환경 구축
