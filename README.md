@@ -82,6 +82,8 @@ SenseCrafter
 ### GitHub Desktop
 - https://desktop.github.com
 
+### Google colab
+- https://colab.Google
 
 
 
