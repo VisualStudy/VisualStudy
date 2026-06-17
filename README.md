@@ -59,7 +59,7 @@ SenseCrafter
 - https://code.visualstudio.com
 
 ### C language
-- https://
+- https://webstore.iec.ch/en/publication/102886
 
 ### Python
 - https://python.org
